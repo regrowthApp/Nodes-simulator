@@ -1,0 +1,44 @@
+.userButton{
+    padding: 20px;
+    margin-top: 10px;
+    display: block;
+    border-radius: 10px;
+    cursor: pointer;
+    color: black;
+    font-size:xx-large;
+    border: black 4px solid;
+    width: 50%;
+}
+
+#layout1{
+flex-direction: column;
+align-items: center;
+justify-content: center;
+display: flex;
+}
+
+#user{
+    font-size: 300%;
+    display:inline-block;
+    margin-right: 35%;
+}
+
+#animal-form{
+    margin: 2%;
+}
+
+#body{
+    background-color: #28bb11
+}
+
+#logo{
+    width:150px;height:150px;
+    float:right;
+
+}
+
+#header{
+    flex-direction: row;
+    position: relative;
+
+}
